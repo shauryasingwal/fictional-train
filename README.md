@@ -2,7 +2,7 @@
 
 **Live:** [sync-pad.netlify.app](https://sync-pad.netlify.app)
 
-A minimalist, real-time collaborative notepad. Share a link — anyone with it can read and write instantly. No accounts, no setup.
+A minimalist, real-time collaborative notepad. Share a link - anyone with it can read and write instantly. No accounts, no setup.
 
 ---
 
